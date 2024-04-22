@@ -1,0 +1,10 @@
+{
+  "generators": {
+    "react-native-application": {
+      "factory": "./src/generators/react-native-application/generator",
+      "schema": "./src/generators/react-native-application/schema.json",
+      "description": "react-native-application generator",
+      "aliases": ["application", "preset"]
+    }
+  }
+}
